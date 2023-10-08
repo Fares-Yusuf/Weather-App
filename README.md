@@ -6,4 +6,4 @@ This is a pure javascript app to search the weather in cities across the world.
 
 Here we have the project screenshot :
 
-![screenshot](Screenshot.png)
+<img src="Screenshot.png" alt="image" width="50%" height="auto">
